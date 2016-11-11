@@ -12,3 +12,5 @@ Usage
   make all 
   make run_tests to compile all code and execute the tests it immediately
   make clean to delete all compiled code
+  
+Pepar: A pepar includes some software development skills that I learnt from CSCI 3081W at U of M TC
