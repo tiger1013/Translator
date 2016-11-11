@@ -4,12 +4,11 @@ DSL to C++ Translator
 - Automated testing (CXXTest - the unit testing framework) was also used to ensure for correctness.
 
 Usage
-Here's how to use the project.
+- Here's how to use the project.
 
-Firstly, either clone the repository or just download the repo from github.
+- Firstly, either clone the repository or just download the repo from github.
 
-cd into src do one of the following :
-
-make all 
-make run_tests to compile all code and execute the tests it immediately
-make clean to delete all compiled code
+- cd into src do one of the following :
+  make all 
+  make run_tests to compile all code and execute the tests it immediately
+  make clean to delete all compiled code
